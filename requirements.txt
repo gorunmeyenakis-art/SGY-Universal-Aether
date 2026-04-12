@@ -1,0 +1,3 @@
+# Python package gerekmez. Calistirmak icin sistemde asagidakiler bulunmalidir:
+# - git
+# - termux-api / termux-sensor
